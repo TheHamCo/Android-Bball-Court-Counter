@@ -9,3 +9,6 @@ User can track the score of each team in a basketball game
 ### For Grader:  XML file location
 XML layout can be found at:
 _Android-Bball-Court-Counter/app/src/main/res/layout/_
+Java can be found at:
+_Android-Bball-Court-Counter/app/src/main/java/com/example/android/courtcounter/MainActivity.java_  
+(Warning: not DRY)
